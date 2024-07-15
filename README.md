@@ -11,3 +11,7 @@
 10. Check if Array Is Sorted and Rotated
 11. Largest Element in Array
 12. Second Largest
+13. Move Zeros
+14. Missing Number
+15. Max Consecutive One
+16. Single Number
