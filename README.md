@@ -15,3 +15,6 @@
 14. Missing Number
 15. Max Consecutive One
 16. Single Number
+17. Union of Two Sorted Arrays
+18. Intersection of Two Arrays
+19. Two Sum(Hashmap)
