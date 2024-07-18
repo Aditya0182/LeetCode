@@ -18,3 +18,5 @@
 17. Union of Two Sorted Arrays
 18. Intersection of Two Arrays
 19. Two Sum(Hashmap)
+20. Sort an Array (Selection Sort, Insertion Sort, Bubble Sort)
+21. Set Matrix Zeroes
