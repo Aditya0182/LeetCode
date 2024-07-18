@@ -20,3 +20,6 @@
 19. Two Sum(Hashmap)
 20. Sort an Array (Selection Sort, Insertion Sort, Bubble Sort)
 21. Set Matrix Zeroes
+22. Pascal's Triangle
+23. Next Permutation
+24. Maximum Subarray
