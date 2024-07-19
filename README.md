@@ -23,3 +23,7 @@
 22. Pascal's Triangle
 23. Next Permutation
 24. Maximum Subarray
+25. Sort Colors
+26. Rotate Image
+27. Best Time to Buy and Sell Stock
+28. Counting Sort
