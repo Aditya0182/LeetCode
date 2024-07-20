@@ -27,3 +27,7 @@
 26. Rotate Image
 27. Best Time to Buy and Sell Stock
 28. Counting Sort
+29. Merge Intervals
+30. Merge Sorted Array
+31. Find the Duplicate Number
+
