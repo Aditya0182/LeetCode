@@ -30,4 +30,7 @@
 29. Merge Intervals
 30. Merge Sorted Array
 31. Find the Duplicate Number
+32. Search a 2D Matrix
+33. Pow(x,n)
+34. Majority Element
 
