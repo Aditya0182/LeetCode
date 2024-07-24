@@ -28,9 +28,13 @@
 27. Best Time to Buy and Sell Stock
 28. Counting Sort
 29. Merge Intervals
-30. Merge Sorted Array
-31. Find the Duplicate Number
-32. Search a 2D Matrix
-33. Pow(x,n)
-34. Majority Element
+30. Longest Substring Without Repeating Characters
+31. Longest Consecutive Sequence
+32. 4Sum
+33. Majority Element II
+34. Merge Sorted Array
+35. Find the Duplicate Number
+36. Search a 2D Matrix
+37. Pow(x,n)
+38. Majority Element
 
