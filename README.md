@@ -37,4 +37,6 @@
 36. Search a 2D Matrix
 37. Pow(x,n)
 38. Majority Element
+39. Middle of the Linked List
+40. Reverse Linked List
 
