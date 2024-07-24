@@ -34,9 +34,11 @@
 33. Majority Element II
 34. Merge Sorted Array
 35. Find the Duplicate Number
-36. Search a 2D Matrix
-37. Pow(x,n)
-38. Majority Element
-39. Middle of the Linked List
-40. Reverse Linked List
-
+36. Remove Nth Node From End of List
+37. Search a 2D Matrix
+38. Pow(x,n)
+39. Majority Element
+40. Middle of the Linked List
+41. Reverse Linked List
+42. Add Two Numbers
+43. Delete Node in a Linked List
