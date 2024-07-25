@@ -42,3 +42,7 @@
 41. Reverse Linked List
 42. Add Two Numbers
 43. Delete Node in a Linked List
+44. Intersection of Two Linked Lists
+45. Linked List Cycle
+46. Linked List Cycle II
+47. Palindrome Linked List
