@@ -46,3 +46,6 @@
 45. Linked List Cycle
 46. Linked List Cycle II
 47. Palindrome Linked List
+48. Rotate List
+49. 3Sum
+50. Copy List with Random Pointer
