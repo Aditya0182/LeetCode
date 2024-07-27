@@ -49,3 +49,5 @@
 48. Rotate List
 49. 3Sum
 50. Copy List with Random Pointer
+51. Reverse Nodes in k-Group
+52. Trapping Rain Water
