@@ -51,3 +51,5 @@
 50. Copy List with Random Pointer
 51. Reverse Nodes in k-Group
 52. Trapping Rain Water
+53. N meetings in one room
+54. Assign Cookies
