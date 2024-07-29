@@ -47,9 +47,11 @@
 46. Linked List Cycle II
 47. Palindrome Linked List
 48. Rotate List
-49. 3Sum
-50. Copy List with Random Pointer
-51. Reverse Nodes in k-Group
-52. Trapping Rain Water
-53. N meetings in one room
-54. Assign Cookies
+49. Reverse Words in a String
+50. 3Sum
+51. String to Integer (atoi)
+52. Copy List with Random Pointer
+53. Reverse Nodes in k-Group
+54. Trapping Rain Water
+55. N meetings in one room
+56. Assign Cookies
