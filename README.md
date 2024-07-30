@@ -55,3 +55,6 @@
 54. Trapping Rain Water
 55. N meetings in one room
 56. Assign Cookies
+57. Implement stack using array
+58. Implement Queue using array
+
