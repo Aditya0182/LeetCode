@@ -52,9 +52,9 @@
 51. String to Integer (atoi)
 52. Copy List with Random Pointer
 53. Reverse Nodes in k-Group
-54. Trapping Rain Water
-55. N meetings in one room
-56. Assign Cookies
-57. Implement stack using array
-58. Implement Queue using array
-
+55. Trapping Rain Water
+56. N meetings in one room
+57. Implement Stack using Queues
+58. Assign Cookies
+59. Implement stack using array
+60. Implement Queue using array
