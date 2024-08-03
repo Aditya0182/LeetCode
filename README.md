@@ -58,3 +58,5 @@
 58. Assign Cookies
 59. Implement stack using array
 60. Implement Queue using array
+61. Next Greater Element I
+62. Sort a Stack
