@@ -61,3 +61,5 @@
 61. Next Greater Element I
 62. Sort a Stack
 63.  Combination Sum(Recursion)
+64.  Palindrome Partitioning
+65.  Permutation Sequence
