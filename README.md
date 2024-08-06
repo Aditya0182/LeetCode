@@ -63,3 +63,5 @@
 63.  Combination Sum(Recursion)
 64.  Palindrome Partitioning
 65.  Permutation Sequence
+66.  Single Element in a Sorted Array
+67.  Find Nth Root Of M
