@@ -65,3 +65,5 @@
 65.  Permutation Sequence
 66.  Single Element in a Sorted Array
 67.  Find Nth Root Of M
+68.  Find the Index of the First Occurrence in a String
+69.  
