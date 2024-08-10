@@ -61,9 +61,14 @@
 61. Next Greater Element I
 62. Sort a Stack
 63.  Combination Sum(Recursion)
-64.  Palindrome Partitioning
-65.  Permutation Sequence
-66.  Single Element in a Sorted Array
-67.  Find Nth Root Of M
-68.  Find the Index of the First Occurrence in a String
-69.  Valid Anagram
+64.  Count and Say
+65.  Palindrome Partitioning
+66.  Permutation Sequence
+67.  Single Element in a Sorted Array
+68.  Find Nth Root Of M
+69.  Find the Index of the First Occurrence in a String
+70.  Valid Anagram
+71.  Compare Version Numbers
+72.  Binary Tree Inorder Traversal
+73.  Binary Tree Preorder Traversal
+74.  Binary Tree Postorder Traversal
