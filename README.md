@@ -74,4 +74,7 @@
 74.  Binary Tree Postorder Traversal
 75.  Left View of Binary Tree
 76.  Top View of Binary Tree
+77.  Bottom View of Binary Tree
+78.  Tree Traversals
+
 
