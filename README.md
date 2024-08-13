@@ -76,5 +76,7 @@
 76.  Top View of Binary Tree
 77.  Bottom View of Binary Tree
 78.  Tree Traversals
+79.  Vertical Order Traversal of a Binary Tree
+80.  Maximum Width of Binary Tree
 
 
