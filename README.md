@@ -78,5 +78,7 @@
 78.  Tree Traversals
 79.  Vertical Order Traversal of a Binary Tree
 80.  Maximum Width of Binary Tree
-
+81.  Binary Tree Level Order Traversal
+82.  Maximum Depth of Binary Tree
+83.  Diameter of Binary Tree
 
