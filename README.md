@@ -81,4 +81,6 @@
 81.  Binary Tree Level Order Traversal
 82.  Maximum Depth of Binary Tree
 83.  Diameter of Binary Tree
+84.  Balanced Binary Tree
+85.  Same Tree
 
