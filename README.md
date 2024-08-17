@@ -83,4 +83,6 @@
 83.  Diameter of Binary Tree
 84.  Balanced Binary Tree
 85.  Same Tree
+86.  Lowest Common Ancestor of a Binary Tree
+87.  Binary Tree Zigzag Level Order Traversal
 
