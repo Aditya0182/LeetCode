@@ -87,4 +87,7 @@
 87.  Binary Tree Zigzag Level Order Traversal
 88.  Construct Binary Tree from Preorder and Inorder Traversal
 89.  Symmetric Tree
+90.  Search in a Binary Search Tree
+91.  Binary Search Trees
+
 
