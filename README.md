@@ -89,5 +89,7 @@
 89.  Symmetric Tree
 90.  Search in a Binary Search Tree
 91.  Binary Search Trees
+92.  Construct Binary Search Tree from Preorder Traversal
+93.  Validate Binary Search Tree
 
 
