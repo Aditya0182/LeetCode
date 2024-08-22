@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82fe4d93-dfaa-45f3-9308-39370f943ee5)# LeetCode
+# LeetCode
 1. Roman to Integer
 2. Palindrome Number
 3. Two Sum
