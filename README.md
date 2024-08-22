@@ -1,4 +1,4 @@
-# LeetCode
+![image](https://github.com/user-attachments/assets/82fe4d93-dfaa-45f3-9308-39370f943ee5)# LeetCode
 1. Roman to Integer
 2. Palindrome Number
 3. Two Sum
@@ -91,5 +91,9 @@
 91.  Binary Search Trees
 92.  Construct Binary Search Tree from Preorder Traversal
 93.  Validate Binary Search Tree
+94.  Lowest Common Ancestor of a Binary Search Tree
+95.  Predecessor and Successor
+
+
 
 
