@@ -93,6 +93,9 @@
 93.  Validate Binary Search Tree
 94.  Lowest Common Ancestor of a Binary Search Tree
 95.  Predecessor and Successor
+96.  Ceil from BST
+97.  Floor in BST
+98.  Kth Smallest Element in a BST
 
 
 
