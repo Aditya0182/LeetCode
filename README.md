@@ -96,6 +96,8 @@
 96.  Ceil from BST
 97.  Floor in BST
 98.  Kth Smallest Element in a BST
+99.  Two Sum IV - Input is a BST
+100.  Binary Search Tree Iterator
 
 
 
