@@ -98,6 +98,8 @@
 98.  Kth Smallest Element in a BST
 99.  Two Sum IV - Input is a BST
 100.  Binary Search Tree Iterator
+101.  Flatten Binary Tree to Linked List
+102.   Binary Subarrays With Sum
 
 
 
