@@ -100,6 +100,8 @@
 100.  Binary Search Tree Iterator
 101.  Flatten Binary Tree to Linked List
 102.   Binary Subarrays With Sum
+103.   Longest Repeating Character Replacement
+104.   Max Consecutive Ones III
 
 
 
