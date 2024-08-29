@@ -60,48 +60,51 @@
 60. Implement Queue using array
 61. Next Greater Element I
 62. Sort a Stack
-63.  Combination Sum(Recursion)
-64.  Count and Say
-65.  Palindrome Partitioning
-66.  Permutation Sequence
-67.  Single Element in a Sorted Array
-68.  Find Nth Root Of M
-69.  Find the Index of the First Occurrence in a String
-70.  Valid Anagram
-71.  Compare Version Numbers
-72.  Binary Tree Inorder Traversal
-73.  Binary Tree Preorder Traversal
-74.  Binary Tree Postorder Traversal
-75.  Left View of Binary Tree
-76.  Top View of Binary Tree
-77.  Bottom View of Binary Tree
-78.  Tree Traversals
-79.  Vertical Order Traversal of a Binary Tree
-80.  Maximum Width of Binary Tree
-81.  Binary Tree Level Order Traversal
-82.  Maximum Depth of Binary Tree
-83.  Diameter of Binary Tree
-84.  Balanced Binary Tree
-85.  Same Tree
-86.  Lowest Common Ancestor of a Binary Tree
-87.  Binary Tree Zigzag Level Order Traversal
-88.  Construct Binary Tree from Preorder and Inorder Traversal
-89.  Symmetric Tree
-90.  Search in a Binary Search Tree
-91.  Binary Search Trees
-92.  Construct Binary Search Tree from Preorder Traversal
-93.  Validate Binary Search Tree
-94.  Lowest Common Ancestor of a Binary Search Tree
-95.  Predecessor and Successor
-96.  Ceil from BST
-97.  Floor in BST
-98.  Kth Smallest Element in a BST
-99.  Two Sum IV - Input is a BST
-100.  Binary Search Tree Iterator
-101.  Flatten Binary Tree to Linked List
-102.   Binary Subarrays With Sum
-103.   Longest Repeating Character Replacement
-104.   Max Consecutive Ones III
+63. Combination Sum(Recursion)
+64. Count and Say
+65. Palindrome Partitioning
+66. Permutation Sequence
+67. Single Element in a Sorted Array
+68. Find Nth Root Of M
+69. Find the Index of the First Occurrence in a String
+70. Valid Anagram
+71. Compare Version Numbers
+72. Binary Tree Inorder Traversal
+73. Binary Tree Preorder Traversal
+74. Binary Tree Postorder Traversal
+75. Left View of Binary Tree
+76. Top View of Binary Tree
+77. Bottom View of Binary Tree
+78. Tree Traversals
+79. Vertical Order Traversal of a Binary Tree
+80. Maximum Width of Binary Tree
+81. Binary Tree Level Order Traversal
+82. Maximum Depth of Binary Tree
+83. Diameter of Binary Tree
+84. Balanced Binary Tree
+85. Same Tree
+86. Lowest Common Ancestor of a Binary Tree
+87. Binary Tree Zigzag Level Order Traversal
+88. Construct Binary Tree from Preorder and Inorder Traversal
+89. Symmetric Tree
+90. Search in a Binary Search Tree
+91. Binary Search Trees
+92. Construct Binary Search Tree from Preorder Traversal
+93. Validate Binary Search Tree
+94. Lowest Common Ancestor of a Binary Search Tree
+95. Predecessor and Successor
+96. Ceil from BST
+97. Floor in BST
+98. Kth Smallest Element in a BST
+99. Two Sum IV - Input is a BST
+100. Binary Search Tree Iterator
+101. Flatten Binary Tree to Linked List
+102. Binary Subarrays With Sum
+103. Longest Repeating Character Replacement
+104. Max Consecutive Ones III
+105. Print adjacency list
+106. Graph and Vertices
+
 
 
 
